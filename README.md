@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kat</h1>
 <h3 align="center"></h3>
 
+<p> Hello! I am a Full-Stack Software Engineer and cat-lover who is looking to craft immersive and user-centric digital experiences. I thrive in collaborative environments and enjoy working closely with my team to ensure that every aspect of a web application aligns with the user's goals and expectations.</p>
+
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
